@@ -8,8 +8,8 @@ An entry for [Everyday Wonder, Two Days to Find the Line](https://make.fun/bount
 
 The entry is a single sentence about a small moment of wonder in everyday life:
 
-> "My spoon bends where it meets the tea, a small quiet break in the world I stir every morning and never fix."
+> "My spoon bends where it meets the tea, and every morning I stir a world that splits at the surface and stays tea."
 
-The sentence is 107 characters long. It takes the everyday sight of a spoon bending at the surface of a cup of tea — simple refraction — and treats it as a small break in the world that the speaker stirs around every morning without ever fixing, so the ordinary quietly stays impossible.
+The sentence is 113 characters long. It takes the everyday sight of a spoon bending at the surface of a cup of tea — simple refraction — and treats it as a world that splits at the surface every morning yet stays tea, so the ordinary quietly stays impossible.
 
 `main.ts` is a dependency-free Node 22 program: it creates `/output` if needed and writes this sentence, byte-identically on every run, to `/output/entry.txt`. Run it with `node main.ts`.
